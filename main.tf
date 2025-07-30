@@ -8,3 +8,5 @@ resource "aws_instance" "test-vm-01" {
   }
 }
 Interested =  ['AWS','Python','Terraform','Jenkins']
+
+GPT = ['Co-Pilot','Claude']
