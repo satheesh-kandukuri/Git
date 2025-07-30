@@ -7,3 +7,4 @@ resource "aws_instance" "test-vm-01" {
     Name = "test-vm-01"
   }
 }
+Interested =  ['AWS','Python','Terraform','Jenkins']
